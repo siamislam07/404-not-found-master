@@ -65,5 +65,5 @@ This application/site was created as a submission to a [DevChallenges](https://d
 
 ## Contact
 
-- Website [your-website.com](https://portfoliosiam.netlify.app/)
-- Twitter [@your-twitter](https://twitter.com/siamislam909)
+- Website [My portfolio](https://portfoliosiam.netlify.app/)
+- Twitter [@twitter](https://twitter.com/siamislam909)
